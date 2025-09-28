@@ -13,9 +13,14 @@ public abstract class Cuenta {
     public Cuenta() {
     }
 
-    public Cuenta(double saldo, String numeroCuenta) {
-        this.saldo = saldo;
+    /**
+     * Constructor de la clase Cuenta.
+     * Atributos de la clase.
+     * Inicializa el atributo numeroCuenta, saldoInicial.
+     */
+    public Cuenta(String numeroCuenta, double saldoInicial) {
         this.numeroCuenta = numeroCuenta;
+        this.saldo = saldoInicial;
     }
 
     /**
