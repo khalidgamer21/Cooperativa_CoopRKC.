@@ -4,34 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5e0b710-cb3f-4086-8fa9-6ac9771c91ea" name="Changes" comment=" comentarios" />
+    <list default="true" id="e5e0b710-cb3f-4086-8fa9-6ac9771c91ea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Cooperativa_CoopRKC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;khalidgamer21&quot;
+    &quot;assignee&quot;: &quot;YimyAsprilla&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/khalidgamer21/Cooperativa_CoopRKC..git&quot;,
-    &quot;accountId&quot;: &quot;30796366-692e-49ce-99c5-a00070bc866a&quot;
+    &quot;url&quot;: &quot;https://github.com/YimyAsprilla/Cooperativa_CoopRKC..git&quot;,
+    &quot;accountId&quot;: &quot;19d35cb4-3944-4170-8830-42432a83678c&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -40,27 +36,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/MARLON/Downloads/proyecto java/grupo _ 8/Cooperativa_CoopRKC/src/main/java/edu/iudigital/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/MARLON/Downloads/proyecto java/grupo _ 8/Cooperativa_CoopRKC/src/main/java/edu/iudigital/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
       </set>
     </attachedChunks>
   </component>
@@ -71,59 +75,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759084689799</updated>
-      <workItem from="1759084691105" duration="1351000" />
-      <workItem from="1759086104595" duration="711000" />
-      <workItem from="1759086867376" duration="50000" />
-      <workItem from="1759086934420" duration="14000" />
-      <workItem from="1759086965086" duration="39000" />
-      <workItem from="1759087082209" duration="482000" />
-      <workItem from="1759087585839" duration="271000" />
-      <workItem from="1759087969174" duration="3338000" />
+      <workItem from="1759084691105" duration="7000" />
+      <workItem from="1759085955527" duration="5878000" />
     </task>
-    <task id="LOCAL-00001" summary="comienzo del trabajo">
+    <task id="LOCAL-00001" summary="Commits clase Deposito&#10;- Se crea la clase Deposito.&#10;- Importamos la clase cuenta desde el paquete modelo.&#10;- Se crean los atributos cuenta y monto.&#10;- Se implementan los metodos ejecutar deposito y obtener monto depositado.&#10;&#10;-----------------------------------------------&#10;&#10;Commits clase Retiro.&#10;- Se crea la clase Retiro.&#10;- Importamos la clase cuenta desde el paquete Modelo.&#10;- Se crean los atributos cuenta y monto.&#10;- Se implementan los metodos ejecutar retiro y obtener monto retirado.&#10;&#10;------------------------------------------------&#10;&#10;Commits Clase Transaccion.&#10;&#10;- Se crea la interfaz Transaccion.&#10;- Se crean los metodos ajecutar y getmonto.">
       <option name="closed" value="true" />
-      <created>1759085037895</created>
+      <created>1759091217044</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1759085037895</updated>
+      <updated>1759091217044</updated>
     </task>
-    <task id="LOCAL-00002" summary="- Se creo la clase Cooperativa.&#10;- Se añadio la lista de socios.&#10;- Se implemento el metodo registrarSocio().&#10;- Se implementó el metodo abrirCuenta() con validacioin para evitar duplicados.&#10;- Se añadio el metodo getSocios() para consultar la lista de socios.">
-      <option name="closed" value="true" />
-      <created>1759086777869</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1759086777869</updated>
-    </task>
-    <task id="LOCAL-00003" summary="- Se creo la clase App con el metodo main.&#10;- Se agrego un menu con opciones usando JOptionPane.&#10;- Permite registrar socios, abrir cuentas, hacer depositos y retiros.&#10;- Se listan socios y cuentas usando streams.&#10;- Se calcula el total de saldos en la cooperativa.&#10;- Se añadio opcion para mostrar intereses generados en cuentas de ahorro.&#10;- Se implement0 la salida del sistema.">
-      <option name="closed" value="true" />
-      <created>1759088045789</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1759088045789</updated>
-    </task>
-    <task id="LOCAL-00004" summary=" comentarios">
-      <option name="closed" value="true" />
-      <created>1759091195182</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1759091195182</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comienzo del trabajo" />
-    <MESSAGE value="- Se creo la clase Cooperativa.&#10;- Se añadio la lista de socios.&#10;- Se implemento el metodo registrarSocio().&#10;- Se implementó el metodo abrirCuenta() con validacioin para evitar duplicados.&#10;- Se añadio el metodo getSocios() para consultar la lista de socios." />
-    <MESSAGE value="- Se creo la clase App con el metodo main.&#10;- Se agrego un menu con opciones usando JOptionPane.&#10;- Permite registrar socios, abrir cuentas, hacer depositos y retiros.&#10;- Se listan socios y cuentas usando streams.&#10;- Se calcula el total de saldos en la cooperativa.&#10;- Se añadio opcion para mostrar intereses generados en cuentas de ahorro.&#10;- Se implement0 la salida del sistema." />
-    <MESSAGE value=" comentarios" />
-    <option name="LAST_COMMIT_MESSAGE" value=" comentarios" />
+    <MESSAGE value="Commits clase Deposito&#10;- Se crea la clase Deposito.&#10;- Importamos la clase cuenta desde el paquete modelo.&#10;- Se crean los atributos cuenta y monto.&#10;- Se implementan los metodos ejecutar deposito y obtener monto depositado.&#10;&#10;-----------------------------------------------&#10;&#10;Commits clase Retiro.&#10;- Se crea la clase Retiro.&#10;- Importamos la clase cuenta desde el paquete Modelo.&#10;- Se crean los atributos cuenta y monto.&#10;- Se implementan los metodos ejecutar retiro y obtener monto retirado.&#10;&#10;------------------------------------------------&#10;&#10;Commits Clase Transaccion.&#10;&#10;- Se crea la interfaz Transaccion.&#10;- Se crean los metodos ajecutar y getmonto." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commits clase Deposito&#10;- Se crea la clase Deposito.&#10;- Importamos la clase cuenta desde el paquete modelo.&#10;- Se crean los atributos cuenta y monto.&#10;- Se implementan los metodos ejecutar deposito y obtener monto depositado.&#10;&#10;-----------------------------------------------&#10;&#10;Commits clase Retiro.&#10;- Se crea la clase Retiro.&#10;- Importamos la clase cuenta desde el paquete Modelo.&#10;- Se crean los atributos cuenta y monto.&#10;- Se implementan los metodos ejecutar retiro y obtener monto retirado.&#10;&#10;------------------------------------------------&#10;&#10;Commits Clase Transaccion.&#10;&#10;- Se crea la interfaz Transaccion.&#10;- Se crean los metodos ajecutar y getmonto." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
