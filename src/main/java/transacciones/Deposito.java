@@ -1,7 +1,7 @@
 package transacciones;
 
-import Modelo.Cuenta; // Importa la clase Cuenta desde el paquete Modelo
-public class Deposito implements {
+import modelo.Cuenta; // Importa la clase Cuenta desde el paquete Modelo
+public class Deposito implements Transaccion {
     private Cuenta cuenta;
     private double monto;
 

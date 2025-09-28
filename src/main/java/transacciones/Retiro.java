@@ -1,6 +1,6 @@
 package transacciones;
 
-import Modelo.Cuenta; // Importa la clase Cuneta desde el paquete Modelo
+import modelo.Cuenta; // Importa la clase Cuneta desde el paquete Modelo
 
 public class Retiro implements Transaccion {
     private Cuenta cuenta; // Cuenta de la cual se retira el dinero

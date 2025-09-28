@@ -47,7 +47,7 @@ public class App { //Clase principaldonde arranctodo el programa.
                 case 1 -> {
 
                     String nombre = JOptionPane.showInputDialog("Ingrese el nombre del socio:"); // Pido el nombre
-                    String id = JOptionPane.showInputDialog("Ingrese la cedula del socio:"); // Pido la cedula
+                    String cedula = JOptionPane.showInputDialog("Ingrese la cedula del socio:"); // Pido la cedula
                     Socio socio = new Socio(nombre, cedula);// Creo el socio
                     coop.registrarSocio(socio);// Lo registro en la cooperativa
                     JOptionPane.showMessageDialog(null, "Socio registrado exitosamente.");
@@ -164,12 +164,12 @@ public class App { //Clase principaldonde arranctodo el programa.
                             .filter(c -> c instanceof CuentaAhorros) // solo tomo las cuentas de ahorro
                             .map(c -> (CuentaAhorros) c) // le digo a mi programa que c es de tipo CuentaAhorros
                             .forEach(c -> {
-                                double interesGenerado = c.getSaldo() * c.getInteres(); // hace la cuenta del interes
+                                double interesGenerado = c.getSaldo() * c.getIntereses(); // hace la cuenta del interes
                                 JOptionPane.showMessageDialog(
                                         null,
                                         "Cuenta: " + c.getNumeroCuenta() +
                                                 "\nSaldo actual: " + c.getSaldo() +
-                                                "\nInterés aplicado: " + (c.getInteres() * 100) + "%" +
+                                                "\nInterés aplicado: " + (c.getIntereses() * 100) + "%" +
                                                 "\nGanancia por interés: " + interesGenerado,
                                             "Intereses de la Cuenta",
                                             JOptionPane.INFORMATION_MESSAGE

@@ -19,7 +19,7 @@ public class Socio {
      * Constructor de la clase Socio.
      * Inicializa los atributos: nombre, cedula y Cuentas de la clase Socio.
      */
-    public Socio(String nombre, String cedula, List<Cuenta> cuentas) {
+    public Socio(String nombre, String cedula) {
         this.nombre = nombre;
         this.cedula = cedula;
         this.cuentas = new ArrayList<>();
