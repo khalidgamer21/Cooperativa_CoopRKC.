@@ -19,8 +19,8 @@ public class CuentaAhorros extends Cuenta {
      * Además, inicializa el atributo "intereses", propio de la clase CuentaAhorros.
      */
 
-    public CuentaAhorros(double saldo, String numeroCuenta, double intereses) {
-        super(saldo, numeroCuenta);
+    public CuentaAhorros(String numeroCuenta, double saldoInicial, double intereses) {
+        super(numeroCuenta, saldoInicial);
         this.intereses = intereses;
     }
 
