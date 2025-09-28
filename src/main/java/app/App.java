@@ -177,9 +177,9 @@ public class App { //Clase principaldonde arranctodo el programa.
                             });
 
                 }
-                // Opción 9: Ver intereses de las cuentas de ahorro
+
                 case 9 -> JOptionPane.showMessageDialog(null, "Saliendo del sistema...");
-                // Opción por defecto: si no es ninguna de las anteriores, es inválida
+
                 default -> JOptionPane.showMessageDialog(null, "Opción inválida.");
 
             }
