@@ -25,6 +25,9 @@
     &quot;accountId&quot;: &quot;19d35cb4-3944-4170-8830-42432a83678c&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -72,8 +75,17 @@
       <option name="presentableId" value="Default" />
       <updated>1759084689799</updated>
       <workItem from="1759084691105" duration="7000" />
-      <workItem from="1759085955527" duration="5204000" />
+      <workItem from="1759085955527" duration="5878000" />
     </task>
+    <task id="LOCAL-00001" summary="Commits clase Deposito&#10;- Se crea la clase Deposito.&#10;- Importamos la clase cuenta desde el paquete modelo.&#10;- Se crean los atributos cuenta y monto.&#10;- Se implementan los metodos ejecutar deposito y obtener monto depositado.&#10;&#10;-----------------------------------------------&#10;&#10;Commits clase Retiro.&#10;- Se crea la clase Retiro.&#10;- Importamos la clase cuenta desde el paquete Modelo.&#10;- Se crean los atributos cuenta y monto.&#10;- Se implementan los metodos ejecutar retiro y obtener monto retirado.&#10;&#10;------------------------------------------------&#10;&#10;Commits Clase Transaccion.&#10;&#10;- Se crea la interfaz Transaccion.&#10;- Se crean los metodos ajecutar y getmonto.">
+      <option name="closed" value="true" />
+      <created>1759091217044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759091217044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +93,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comienzo del trabajo" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Commits clase Deposito&#10;- Se crea la clase Deposito.&#10;- Importamos la clase cuenta desde el paquete modelo.&#10;- Se crean los atributos cuenta y monto.&#10;- Se implementan los metodos ejecutar deposito y obtener monto depositado.&#10;&#10;-----------------------------------------------&#10;&#10;Commits clase Retiro.&#10;- Se crea la clase Retiro.&#10;- Importamos la clase cuenta desde el paquete Modelo.&#10;- Se crean los atributos cuenta y monto.&#10;- Se implementan los metodos ejecutar retiro y obtener monto retirado.&#10;&#10;------------------------------------------------&#10;&#10;Commits Clase Transaccion.&#10;&#10;- Se crea la interfaz Transaccion.&#10;- Se crean los metodos ajecutar y getmonto." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commits clase Deposito&#10;- Se crea la clase Deposito.&#10;- Importamos la clase cuenta desde el paquete modelo.&#10;- Se crean los atributos cuenta y monto.&#10;- Se implementan los metodos ejecutar deposito y obtener monto depositado.&#10;&#10;-----------------------------------------------&#10;&#10;Commits clase Retiro.&#10;- Se crea la clase Retiro.&#10;- Importamos la clase cuenta desde el paquete Modelo.&#10;- Se crean los atributos cuenta y monto.&#10;- Se implementan los metodos ejecutar retiro y obtener monto retirado.&#10;&#10;------------------------------------------------&#10;&#10;Commits Clase Transaccion.&#10;&#10;- Se crea la interfaz Transaccion.&#10;- Se crean los metodos ajecutar y getmonto." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
