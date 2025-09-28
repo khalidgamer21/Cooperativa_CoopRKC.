@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5e0b710-cb3f-4086-8fa9-6ac9771c91ea" name="Changes" comment="- Se creo la clase App con el metodo main.&#10;- Se agrego un menu con opciones usando JOptionPane.&#10;- Permite registrar socios, abrir cuentas, hacer depositos y retiros.&#10;- Se listan socios y cuentas usando streams.&#10;- Se calcula el total de saldos en la cooperativa.&#10;- Se añadio opcion para mostrar intereses generados en cuentas de ahorro.&#10;- Se implement0 la salida del sistema.">
-      <change beforePath="$PROJECT_DIR$/../Cooperativa_CoopRKC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cooperativa_CoopRKC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cooperativa_CoopRKC/src/main/java/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cooperativa_CoopRKC/src/main/java/app/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="e5e0b710-cb3f-4086-8fa9-6ac9771c91ea" name="Changes" comment=" comentarios" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +78,7 @@
       <workItem from="1759086965086" duration="39000" />
       <workItem from="1759087082209" duration="482000" />
       <workItem from="1759087585839" duration="271000" />
-      <workItem from="1759087969174" duration="2991000" />
+      <workItem from="1759087969174" duration="3338000" />
     </task>
     <task id="LOCAL-00001" summary="comienzo del trabajo">
       <option name="closed" value="true" />
@@ -107,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759088045789</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" comentarios">
+      <option name="closed" value="true" />
+      <created>1759091195182</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759091195182</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +122,8 @@
     <MESSAGE value="comienzo del trabajo" />
     <MESSAGE value="- Se creo la clase Cooperativa.&#10;- Se añadio la lista de socios.&#10;- Se implemento el metodo registrarSocio().&#10;- Se implementó el metodo abrirCuenta() con validacioin para evitar duplicados.&#10;- Se añadio el metodo getSocios() para consultar la lista de socios." />
     <MESSAGE value="- Se creo la clase App con el metodo main.&#10;- Se agrego un menu con opciones usando JOptionPane.&#10;- Permite registrar socios, abrir cuentas, hacer depositos y retiros.&#10;- Se listan socios y cuentas usando streams.&#10;- Se calcula el total de saldos en la cooperativa.&#10;- Se añadio opcion para mostrar intereses generados en cuentas de ahorro.&#10;- Se implement0 la salida del sistema." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Se creo la clase App con el metodo main.&#10;- Se agrego un menu con opciones usando JOptionPane.&#10;- Permite registrar socios, abrir cuentas, hacer depositos y retiros.&#10;- Se listan socios y cuentas usando streams.&#10;- Se calcula el total de saldos en la cooperativa.&#10;- Se añadio opcion para mostrar intereses generados en cuentas de ahorro.&#10;- Se implement0 la salida del sistema." />
+    <MESSAGE value=" comentarios" />
+    <option name="LAST_COMMIT_MESSAGE" value=" comentarios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
